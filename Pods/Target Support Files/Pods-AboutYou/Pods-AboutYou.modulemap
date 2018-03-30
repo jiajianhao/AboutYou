@@ -1,0 +1,6 @@
+framework module Pods_AboutYou {
+  umbrella header "Pods-AboutYou-umbrella.h"
+
+  export *
+  module * { export * }
+}
